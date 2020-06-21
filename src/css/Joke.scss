@@ -1,0 +1,17 @@
+.Joke {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 10%;
+  border-bottom: 1px solid #eee;
+
+  &__joke {
+    font-size: 1.6rem;
+    width: 90%;
+    margin-left: 0.5em;
+  }
+
+  &__smiley {
+    font-size: 4rem;
+  }
+}

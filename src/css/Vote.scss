@@ -1,0 +1,21 @@
+.Vote {
+  display: flex;
+  width: 15%;
+  justify-content: space-evenly;
+  font-size: 1.6rem;
+
+  &__container {
+    border-radius: 50%;
+    padding: 1rem;
+    // TODO: add border color
+  }
+
+  &__btn {
+    color: rgb(187, 184, 184);
+    font-size: 1.8rem;
+
+    &:hover {
+      color: rgb(78, 78, 78);
+    }
+  }
+}

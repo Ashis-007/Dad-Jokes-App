@@ -1,0 +1,25 @@
+.Vote {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 15%;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  font-size: 1.6rem;
+}
+
+.Vote__container {
+  border-radius: 50%;
+  padding: 1rem;
+}
+
+.Vote__btn {
+  color: #bbb8b8;
+  font-size: 1.8rem;
+}
+
+.Vote__btn:hover {
+  color: #4e4e4e;
+}
+/*# sourceMappingURL=Vote.css.map */

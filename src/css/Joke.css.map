@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,YAAY;EAC7B,MAAM,EAAE,GAAG;EACX,aAAa,EAAE,cAAc;CAW9B;;AATE,AAAD,WAAO,CAAC;EACN,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,GAAG;EACV,WAAW,EAAE,KAAK;CACnB;;AAEA,AAAD,aAAS,CAAC;EACR,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "Joke.scss"
+    ],
+    "names": [],
+    "file": "Joke.css"
+}
