@@ -1,13 +1,21 @@
 .Vote {
   display: flex;
-  width: 15%;
+  width: 17%;
   justify-content: space-evenly;
   font-size: 1.6rem;
 
   &__container {
     border-radius: 50%;
-    padding: 1rem;
-    // TODO: add border color
+    min-width: 40px;
+    min-height: 40px;
+    line-height: 40px;
+    text-align: center;
+    // padding: 0.5em;
+    box-shadow: 0 5px 10px -3px rgba(0, 0, 0, 0.5);
+
+    span {
+      // margin: 0.5em;
+    }
   }
 
   &__btn {

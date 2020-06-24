@@ -1,3 +1,8 @@
+.loading {
+  color: white;
+  text-align: center;
+}
+
 .JokeList {
   width: 65%;
   height: 80%;
@@ -27,6 +32,9 @@
       -ms-flex-pack: center;
           justify-content: center;
   color: #eee;
+  -webkit-box-shadow: 0 5px 20px -10px rgba(0, 0, 0, 0.3), 0 5px 22px #8e6ec5;
+          box-shadow: 0 5px 20px -10px rgba(0, 0, 0, 0.3), 0 5px 22px #8e6ec5;
+  z-index: 2;
 }
 
 .JokeList__sidebar__heading {

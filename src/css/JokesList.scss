@@ -1,3 +1,8 @@
+.loading {
+  color: white;
+  text-align: center;
+}
+
 .JokeList {
   width: 65%;
   height: 80%;
@@ -13,6 +18,9 @@
     align-items: center;
     justify-content: center;
     color: #eee;
+    box-shadow: 0 5px 20px -10px rgba(0, 0, 0, 0.3),
+      0 5px 22px rgb(142, 110, 197);
+    z-index: 2;
 
     &__heading {
       font-size: 4.5rem;
